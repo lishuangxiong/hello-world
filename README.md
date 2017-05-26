@@ -1,2 +1,3 @@
 # hello-world
-Just anothor repository
+
+Hi, this is the frist time I use github.
