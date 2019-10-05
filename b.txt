@@ -1,1 +1,5 @@
 hello person
+mylove love
+^((?!love).)*$
+mycode is very good
+i love you
